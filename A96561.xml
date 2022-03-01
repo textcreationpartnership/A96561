@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation William R. Whereas by an Act of this present Parliament, intituled, An act for remedying the ill state of the coin of the kingdom, ...</title>
+            <title>Proclamations. 1696-04-17</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96561</idno>
+            <idno type="STC">Wing W2438</idno>
+            <idno type="STC">ESTC R223105</idno>
+            <idno type="EEBO-CITATION">99899747</idno>
+            <idno type="PROQUEST">99899747</idno>
+            <idno type="VID">135582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2450:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation William R. Whereas by an Act of this present Parliament, intituled, An act for remedying the ill state of the coin of the kingdom, ...</title>
+                  <title>Proclamations. 1696-04-17</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd; printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Revenue officers to receive clipped money in accordance with the Act.--Steele.</note>
+                  <note>Title taken from caption title and first lines of text.</note>
+                  <note>At end of text: Given at Our court at Kensington, the seventeenth day of April, 1696. In the eighth year of Our reign.</note>
+                  <note>Steele notation: Arms 129 the holding they.</note>
+                  <note>Lsa copy, reel 2450, is torn at foot affecting the imprint.</note>
+                  <note>Reproduction of original in the Society of Antiquaries, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Public General Acts. 1695-1696. 7&amp;8 Gul.III.c.1 --  Early works to 1800.</term>
+               <term>Adulterated coins --  England --  Early works to 1800.</term>
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Money --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:135582:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MONDROIT</q>
+               </figure>By the King, A PROCLAMATION.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of this preſent Parliament, Intituled, <hi>An Act for Remedying the ill State of the Coin of the Kingdom,</hi> It was amongſt other things Enacted, That the ſeveral Receivers General, and their ſeveral Deputies, and the particular Receivers, Collectors, and other Officers, who ſhould have, or be Intruſted with the Receipt or Collection of Our Revenues, or any Impoſitions, Duties, Taxes, Aids or Supplies which were then Granted, or in Being, or ſhould be Granted to Vs, ſhould, and by the ſaid Act they are ſe<g ref="char:EOLhyphen"/>verally Required and Enjoyned to Accept and Take in Payment for Our Vſe, for or upon Account of any of Our ſaid Revenues, Duties, Taxes, Aids or Supplies reſpectively, all Clipped Moneys, being Ster<g ref="char:EOLhyphen"/>ling Silver, or being Silver Money of a Courſer Allay than the Standard, from ſuch Perſon or Perſons, Bodies Politick or Corporate, as ſhould Tender the ſame, in or for ſuch Payments reſpectively, at any time or times before the Fourth Day of <hi>May,</hi> which ſhould be in the Year of our Lord, One thouſand ſix hundred ninety ſix, at the ſame Rate or Value, as if ſuch Moneys were Vnclipt or Vndiminiſhed, and ſhould not Refuſe any Piece or Pieces of Silver Moneys, ſo Tendred, by Reaſon or Pretence of their being worſe, or holding more Allay than Standard Silver, ſo as ſuch Piece or Pieces do not evidently Appear to be made of Copper, or Baſe Metal Plated over or Waſhed with Silver only. And whereas by another Act of this preſent Parliament, Intituled, <hi>An Act for Granting to His Majeſty an Aid of Four Shillings in the Pound for One Year, for Carrying on the War againſt <hi>France,</hi>
+               </hi> It was amongſt other things Provided and Enacted, That it ſhould and might be Lawful for any Perſon or Perſons who ſhould be Aſſeſſed by Virtue of the ſaid Act, for or in reſpect of their Manors, Lands, Tenements, Rents, Offices, Perſonal Eſtates, or other Matters or Things by the ſaid Act intended to be Charged at any time before the Fourth day of <hi>May,</hi> One thouſand ſix hundred ninety ſix, to Satisfy and Pay to the Reſpective Collectors, who in purſuance of the ſaid Act, ſhould be Impowered to Receive the Firſt Quar<g ref="char:EOLhyphen"/>terly Payment in Clipped Moneys, being Sterling Silver, or Silver of a worſe Allay than the Standard, Twice, Thrice or Four times as much as ſhould be Aſſeſſed or Payable for the ſaid Firſt <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Payment, for, or in reſpect of any ſuch Manors, Lands,
+<pb facs="tcp:135582:2"/>Tenements, Rents, Offices, Perſonal Eſtates, or other Matters or Things reſpectively, which ſaid Collectors were thereby en<g ref="char:EOLhyphen"/>joyned and required, upon every ſuch Payment ſo made at once, to give the Party or Parties paying the ſame an Acquittance expreſſing the Sum received for ſuch Quarterly Payments, for the reſpective Manors, Lands, Tenements, Rents, Offices, Perſonal Eſtates, or other Matters or Things for which ſuch Payment ſhould be ſo made; And every ſuch Acquittance ſhould be a good Diſcharge againſt Vs, Our Heirs and Succeſſors, as if the Sums Chargeable by the ſaid Act on ſuch Manors, Lands, Tenements, Rents, Offices, Perſonal Eſtates, or other Matters or Things were Aſſeſſed or Anſwered, at the ſeveral and reſpective Quarterly Payments in the ſaid Act mentioned: We therefore being deſirous that all and every Our Collectors, Receivers and other Officers concerned in the Receipt of Our Taxes or Reve<g ref="char:EOLhyphen"/>nues ſhould Punctually Obſerve the ſaid ſeveral Proviſions and Directions in the ſaid Acts contained, and that Our Loving Subjects ſhould have the full Benefit and Advantage thereby intended them, and the better to Enable them to pay Our Taxes and Revenues, have thought fit to Declare and Command, and by and with the Advice of Our Privy Council, We do by this Our Royal Proclamation Declare and Command all and every the Collectors and Receivers of Our Revenues and Taxes, That they ſhall Receive in Payment all ſuch Clipped Silver Moneys, according to the Directions of the ſaid Recited Acts, from all or any of Our Loving Subjects, who ſhall Offer or Tender the ſame for any of Our Taxes or Revenues, at any time before the Fourth day of <hi>May</hi> next en<g ref="char:EOLhyphen"/>ſuing; and particularly, That all and every the Collectors of the ſaid Aid of Four Shillings in the Pound Granted to Vs by the ſaid laſt mentioned Act, do Accept and Receive Two, Threé or Four Quarterly Payments of the ſaid Aid from ſuch of Our Loving Subjects as ſhall Offer or Tender the ſame in ſuch Clipped Money, as aforeſaid, at any time before the ſaid Fourth day of <hi>May</hi> next, ac<g ref="char:EOLhyphen"/>cording to the Directions of the ſaid laſt mentioned Act. And We do hereby ſtrictly Require and Command all and every the Receivers General, Head Collectors and other Receivers of Our Revenues and Taxes, and their reſpectives Deputies, to Receive ſuch Clipped Moneys from the Collectors, according to the Directions of the ſaid firſt-mentioned Act, or any other Act of Parliament in that be<g ref="char:EOLhyphen"/>half; And that when they ſhall Receive any ſuch Clipped Moneys from the particular Collectors, they do Seal the ſame up in a Bag, and keép it diſtinct and apart from other Moneys, in ſuch manner that they may be able, when they bring any ſuch Money to be paid into our Exchequer, to make Oath that it is the very ſame Money which they Received from the Collectors of our Taxes or Revenues. And We do ſtrictly Require and Command all and every the Commiſſioners, Receivers General, and Collectors, to uſe the utmoſt Speéd and Diligence in the Raiſing, Collecting and Paying all ſuch Cl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pped Moneys into Our Exchequer. And We do hereby ſtrictly Charge and Command all the Receivers and Collectors of Our Revenues and Taxes, That they do accept in Payment ſuch Clipped Moneys, and the ſeveral Quarterly Payments of the ſaid Four Shillings Aid, according to the Directions of the ſaid ſeveral Acts of Parliament, and that they do yield entire Obedience to the ſaid Acts in every other Matter and Thing therein contained, relating to the Receipt of ſuch Clipped Money, or otherwiſe, as they tender Our High Diſpleaſure, and upon Pain of ſuch Puniſhments as may by Law be Inflicted upon all ſuch as ſhall Refuſe or Neglect to obſerve and perform what by the ſaid Acts, or either of them, they are Required and Enjoyned to do.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Kenſington,</hi> 
+                     <date>the Seventeenth Day of <hi>April,</hi> 1696. In the Eighth Year of Our Reign.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
